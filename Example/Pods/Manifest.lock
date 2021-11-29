@@ -1,0 +1,16 @@
+PODS:
+  - CPF_CNPJ_Validators (0.1.0)
+
+DEPENDENCIES:
+  - CPF_CNPJ_Validators (from `../`)
+
+EXTERNAL SOURCES:
+  CPF_CNPJ_Validators:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CPF_CNPJ_Validators: 1d2bb7d78c2794c1cb28616278ccd64e7af4197c
+
+PODFILE CHECKSUM: 1ed6e9e58356643e2e19648fc85cfb39621a5abf
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CPF_CNPJ_Validators_Example' do
+  pod 'CPF_CNPJ_Validators', :path => '../'
+
+  target 'CPF_CNPJ_Validators_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

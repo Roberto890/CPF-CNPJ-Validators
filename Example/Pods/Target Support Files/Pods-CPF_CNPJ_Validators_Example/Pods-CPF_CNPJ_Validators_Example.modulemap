@@ -1,0 +1,6 @@
+framework module Pods_CPF_CNPJ_Validators_Example {
+  umbrella header "Pods-CPF_CNPJ_Validators_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CPF_CNPJ_Validators",
+  "version": "0.1.0",
+  "summary": "A short description of CPF_CNPJ_Validators.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Roberto890/CPF_CNPJ_Validators",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Roberto890": "roberto.jesus.amaral@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Roberto890/CPF_CNPJ_Validators.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CPF_CNPJ_Validators/Classes/**/*"
+}
